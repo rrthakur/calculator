@@ -1,0 +1,64 @@
+.operator{
+    margin-top:10px;
+    
+}
+.number{
+    padding-top: 5px;
+    background-color: teal;
+    width: 40px;
+    height: 35px;
+    border: 2px solid black;
+}
+.number1{
+    width: 10.3%;
+    height: 35px;
+    background-color: thistle;
+    border: 2px solid black;
+}
+*{
+    box-sizing: border-box; 
+}
+.operator{
+    width: 40px;
+    height: 35px;
+    background-color:orangered;
+    margin-left: 5px;
+    border: 2px solid black;
+}
+.operator1{
+    width: 85px;
+    height: 35px;
+    background-color: rgb(114, 107, 27);
+    border: 2px solid black;
+}
+.operator2{
+    
+    width: 40px;
+    height: 35px;
+    background-color:orangered;
+    margin-left: 5px;
+    border: 2px solid black;
+}
+.operator3{
+    width: 40px;
+    height: 35px;
+    background-color:orangered;
+    border: 2px solid black;
+
+}
+.calculator1{
+    margin-top: 20px;
+}
+.box{
+    padding-bottom: 15px;
+   margin-top: 25px;
+   padding-right: 15px;
+   background-color: blueviolet;
+}
+.cal{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    border:2px solid black;
+}
+.
